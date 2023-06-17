@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import LabelEncoder 
-
+# Phase 2 du programme python
 
 st.write("""
 # Application pour MaMaison.sn - Prédiction des prix de vente des maisons
